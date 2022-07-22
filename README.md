@@ -1,1 +1,1 @@
-# Este repositorio almacena los códigos pertenecientes al TFG de Ingeniería de Telecomunicaciones "Procesamiento de imágenes con técnicas de aprendizaje profundo para la detección de hojas en plantas" cuyo autor es Fernando Garrucho Fernández a Julio de 2022.
+# Este repositorio almacena los códigos pertenecientes al TFG de Ingeniería de Telecomunicaciones "Procesamiento de imágenes con técnicas de aprendizaje profundo para la detección de hojas en plantas" cuyo autor es Fernando Garrucho Fernández estudiante de la Universidad de Sevilla a Julio de 2022.
